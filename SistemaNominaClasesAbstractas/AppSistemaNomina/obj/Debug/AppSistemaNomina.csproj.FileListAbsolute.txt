@@ -1,0 +1,13 @@
+C:\Users\LENOVO\Documents\Visual Studio 2019\HomeWork\SistemaNominaClasesAbstractas\AppSistemaNomina\obj\Debug\AppSistemaNomina.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2019\HomeWork\SistemaNominaClasesAbstractas\AppSistemaNomina\obj\Debug\AppSistemaNomina.Formularios.frmAdminEmpleado.resources
+C:\Users\LENOVO\Documents\Visual Studio 2019\HomeWork\SistemaNominaClasesAbstractas\AppSistemaNomina\obj\Debug\AppSistemaNomina.Formularios.frmEditEmpleado.resources
+C:\Users\LENOVO\Documents\Visual Studio 2019\HomeWork\SistemaNominaClasesAbstractas\AppSistemaNomina\obj\Debug\AppSistemaNomina.Properties.Resources.resources
+C:\Users\LENOVO\Documents\Visual Studio 2019\HomeWork\SistemaNominaClasesAbstractas\AppSistemaNomina\obj\Debug\AppSistemaNomina.csproj.GenerateResource.cache
+C:\Users\LENOVO\Documents\Visual Studio 2019\HomeWork\SistemaNominaClasesAbstractas\AppSistemaNomina\obj\Debug\AppSistemaNomina.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Visual Studio 2019\HomeWork\SistemaNominaClasesAbstractas\AppSistemaNomina\bin\Debug\AppSistemaNomina.exe.config
+C:\Users\LENOVO\Documents\Visual Studio 2019\HomeWork\SistemaNominaClasesAbstractas\AppSistemaNomina\bin\Debug\AppSistemaNomina.exe
+C:\Users\LENOVO\Documents\Visual Studio 2019\HomeWork\SistemaNominaClasesAbstractas\AppSistemaNomina\bin\Debug\AppSistemaNomina.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2019\HomeWork\SistemaNominaClasesAbstractas\AppSistemaNomina\obj\Debug\AppSistemaNomina.exe
+C:\Users\LENOVO\Documents\Visual Studio 2019\HomeWork\SistemaNominaClasesAbstractas\AppSistemaNomina\obj\Debug\AppSistemaNomina.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2019\HomeWork\SistemaNominaClasesAbstractas\AppSistemaNomina\obj\Debug\AppSistemaNomina.Formularios.frmMenu.resources
+C:\Users\LENOVO\Documents\Visual Studio 2019\HomeWork\SistemaNominaClasesAbstractas\AppSistemaNomina\obj\Debug\AppSistemaNomina.Formularios.frmLinq.resources
